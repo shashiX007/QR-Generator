@@ -8,8 +8,9 @@ in your current directory.
 commands :- 
 apt update && apt upgrade
 pkg install python -y
-git clone https://github.com/shashiX007/QR-Generator 
-python QRGenerator.py
+git clone https://github.com/shashiX007/QR-Generator                                 
+
+python QRCode_Generator.py
 
 
 Thank you
